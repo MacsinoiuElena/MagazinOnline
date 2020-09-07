@@ -1,0 +1,117 @@
+#banner{
+    background-image: url('../imagini/imagini_banner/theme.jpg');
+    height: 140px;
+    background-size: contain;
+    margin-bottom: 20px;
+    opacity: 0.7;
+}
+
+#meniu {
+    padding: 17px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+#meniu ul li{
+    display: inline;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 10px;
+}
+
+#meniu a:link{
+    color: white;
+}
+
+#meniu a:visited{
+    color: white;
+}
+
+
+#meniu a:hover{
+    color: white;
+    text-shadow:1px 1px 4px red;
+}
+
+
+#fundal{
+    background-color: #666666;
+    overflow: auto;
+    border-radius: 10px;
+}
+
+hr{
+    color: white;
+    height: 15px;
+    background-color: white;
+}
+
+h1{
+    color: white;
+    text-shadow: 1px 1px 4px red;
+    padding-top: 18px;
+    padding-left:28px;
+} 
+
+form{
+    padding: 20px;
+
+}
+td{
+    color: white;
+    padding: 8px;
+    font-size: 17px;
+}
+
+.paragraf{
+    color: white;
+    padding: 20px;
+    padding-left: 27px;
+    font-size: 20px;
+
+}
+
+#graf{
+    color: white;
+    padding: 20px;
+    padding-left: 27px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tabel{
+    border: 2px white solid;
+    border-collapse: collapse;
+
+}
+
+
+
+th.tabel {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.tabel{
+    width: 60%;
+    color: white;
+    margin: 15px;
+    margin-left: 27px;
+}
+
+.cos{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.cos:hover{
+    text-shadow: 2px 1px  2px red;
+}
+
+#h1{
+    font-weight: normal;
+    text-shadow: 1px 1px 4px red;
+    margin-bottom: 20px;
+}

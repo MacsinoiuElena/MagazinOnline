@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 1025px;
+    margin: 0 auto;
+}
+
+
+#meniu a{
+    text-decoration: none;
+}
+
+
+
+#subsol{
+    text-align: center;
+    bottom: 0;
+    position: absolute;
+    width: 1025px;
+    color: black;
+    font-size: 17px;
+    
+}
+
+
+

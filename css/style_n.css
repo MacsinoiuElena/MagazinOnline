@@ -1,0 +1,44 @@
+#banner{
+    background-image: url('../imagini/imagini_banner/theme.jpg');
+    height: 140px;
+    background-size: contain;
+    margin-bottom: 20px;
+}
+
+#meniu ul li{
+    padding: 5px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#meniu ul{
+    list-style-type: none;
+    float: left;
+    width: 15%;
+}
+
+#sectiune{
+    float: left;
+    padding-left: 30px;
+    widows: 80%;
+}
+
+
+#fundal{
+    background-color: #cccccc;
+    overflow: auto;
+    border-radius: 10px;
+}
+
+#meniu a:link{
+    color: black;
+}
+
+#meniu a:visited{
+    color: black;
+}
+
+
+#meniu a:hover{
+    color: grey;
+}
